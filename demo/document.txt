@@ -1,0 +1,16 @@
+Character: H, Font: Arial, Color: Red, Size: 13
+Character: e, Font: Comic Sans, Color: Pink, Size: 11
+Character: l, Font: Arial, Color: Red, Size: 12
+Character: l, Font: Arial, Color: Green, Size: 18
+Character: o, Font: Arial, Color: Red, Size: 12
+Character: W, Font: Calibri, Color: Yellow, Size: 18
+Character: o, Font: Calibri, Color: Purple, Size: 14
+Character: r, Font: Calibri, Color: Blue, Size: 21
+Character: l, Font: Calibri, Color: Black, Size: 14
+Character: d, Font: Calibri, Color: Orange, Size: 11
+Character: C, Font: Verdana, Color: Black, Size: 16
+Character: S, Font: Times New Roman, Color: Black, Size: 16
+Character: 5, Font: Verdana, Color: Black, Size: 16
+Character: 8, Font: Verdana, Color: Black, Size: 16
+Character: 0, Font: Comic Sans, Color: Purple, Size: 16
+Character: 0, Font: Verdana, Color: Black, Size: 16

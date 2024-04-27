@@ -1,0 +1,3 @@
+Character: H, Font: Arial, Color: Red, Size: 12
+Character: E, Font: Comic Sans, Color: Blue, Size: 16
+Character: L, Font: Verdana, Color: Purple, Size: 18
